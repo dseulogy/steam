@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Runes of Magic
+Exec=env WINEPREFIX="/home/ds/.wine" wine C:\\\\windows\\\\command\\\\start.exe steam://rungameid/808290
+Type=Application
+StartupNotify=true
